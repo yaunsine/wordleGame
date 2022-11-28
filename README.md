@@ -5,3 +5,5 @@
 PyConsole程序
 
 
+# 运行程序
+python __init__.py
