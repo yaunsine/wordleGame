@@ -6,4 +6,6 @@ PyConsole程序
 
 
 # 运行程序
+```shell
 python __init__.py
+```
