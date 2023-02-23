@@ -1,5 +1,5 @@
 # Wordle游戏 Python实现
-
+![版本](https://img.shields.io/badge/Python版本-3.7-red.svg)
 
 
 PyConsole程序
