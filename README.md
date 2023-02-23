@@ -1,8 +1,6 @@
 # Wordle游戏 Python实现
 ![版本](https://img.shields.io/badge/Python版本-3.7-red.svg)
-
-
-PyConsole程序
+![类型](https://img.shields.io/badge/类型-console程序-blue.svg)
 
 
 # 运行程序
